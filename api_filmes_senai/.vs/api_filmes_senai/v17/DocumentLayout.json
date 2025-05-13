@@ -1,45 +1,43 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\",
+  "WorkspaceRootPath": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\APIFilmes\\api_filmes_senai\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\54891245808\\desktop\\api_filmes\\api_filmes_senai\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\54891245808\\desktop\\api_filmes\\api_filmes_senai\\contexts\\filmes_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:contexts\\filmes_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\54891245808\\desktop\\api_filmes\\api_filmes_senai\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\54891245808\\desktop\\api_filmes\\api_filmes_senai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\54891245808\\desktop\\api_filmes\\api_filmes_senai\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\54891245808\\desktop\\api_filmes\\api_filmes_senai\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Migrations\\20250429191418_Dbfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250429191418_Dbfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Migrations\\20250429190515_filmes_senai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250429190515_filmes_senai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\54891245808\\desktop\\api_filmes\\api_filmes_senai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\54891245808\\desktop\\api_filmes\\apifilmes\\api_filmes_senai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\54891245808\\desktop\\api_filmes\\api_filmes_senai\\migrations\\20250429191853_dbfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\54891245808\\desktop\\api_filmes\\apifilmes\\api_filmes_senai\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\54891245808\\desktop\\api_filmes\\apifilmes\\api_filmes_senai\\contexts\\filmes_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:contexts\\filmes_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\54891245808\\desktop\\api_filmes\\apifilmes\\api_filmes_senai\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\54891245808\\desktop\\api_filmes\\apifilmes\\api_filmes_senai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\54891245808\\desktop\\api_filmes\\apifilmes\\api_filmes_senai\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\54891245808\\desktop\\api_filmes\\apifilmes\\api_filmes_senai\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Migrations\\20250429191418_Dbfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Migrations\\20250429190515_filmes_senai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\54891245808\\desktop\\api_filmes\\apifilmes\\api_filmes_senai\\migrations\\20250429191853_dbfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:migrations\\20250429191853_dbfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,7 +48,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,48 +56,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250429191418_Dbfilmes.cs",
-              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Migrations\\20250429191418_Dbfilmes.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250429191418_Dbfilmes.cs",
-              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Migrations\\20250429191418_Dbfilmes.cs",
-              "RelativeToolTip": "Migrations\\20250429191418_Dbfilmes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Filmes_Context.cs",
+              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\APIFilmes\\api_filmes_senai\\Contexts\\Filmes_Context.cs",
+              "RelativeDocumentMoniker": "Contexts\\Filmes_Context.cs",
+              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\APIFilmes\\api_filmes_senai\\Contexts\\Filmes_Context.cs",
+              "RelativeToolTip": "Contexts\\Filmes_Context.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBkAAACbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T19:14:18.645Z"
+              "WhenOpened": "2025-04-29T19:02:45.041Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-29T19:03:36.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Filmes_Context.cs",
-              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Contexts\\Filmes_Context.cs",
-              "RelativeDocumentMoniker": "Contexts\\Filmes_Context.cs",
-              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Contexts\\Filmes_Context.cs",
-              "RelativeToolTip": "Contexts\\Filmes_Context.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBkAAACbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T19:02:45.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Controllers\\UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\APIFilmes\\api_filmes_senai\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\APIFilmes\\api_filmes_senai\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "Controllers\\UsuarioController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAADgvwoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,11 +80,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Controllers\\LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\APIFilmes\\api_filmes_senai\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\APIFilmes\\api_filmes_senai\\Controllers\\LoginController.cs",
               "RelativeToolTip": "Controllers\\LoginController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwBoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,11 +92,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GeneroController.cs",
-              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Controllers\\GeneroController.cs",
+              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\APIFilmes\\api_filmes_senai\\Controllers\\GeneroController.cs",
               "RelativeDocumentMoniker": "Controllers\\GeneroController.cs",
-              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Controllers\\GeneroController.cs",
+              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\APIFilmes\\api_filmes_senai\\Controllers\\GeneroController.cs",
               "RelativeToolTip": "Controllers\\GeneroController.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwGcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,9 +107,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "20250429191853_Dbfilmes.cs",
-              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Migrations\\20250429191853_Dbfilmes.cs",
+              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\APIFilmes\\api_filmes_senai\\Migrations\\20250429191853_Dbfilmes.cs",
               "RelativeDocumentMoniker": "Migrations\\20250429191853_Dbfilmes.cs",
-              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Migrations\\20250429191853_Dbfilmes.cs",
+              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\APIFilmes\\api_filmes_senai\\Migrations\\20250429191853_Dbfilmes.cs",
               "RelativeToolTip": "Migrations\\20250429191853_Dbfilmes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,11 +117,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FilmeController.cs",
-              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Controllers\\FilmeController.cs",
+              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\APIFilmes\\api_filmes_senai\\Controllers\\FilmeController.cs",
               "RelativeDocumentMoniker": "Controllers\\FilmeController.cs",
-              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Controllers\\FilmeController.cs",
+              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\APIFilmes\\api_filmes_senai\\Controllers\\FilmeController.cs",
               "RelativeToolTip": "Controllers\\FilmeController.cs",
               "ViewState": "AgIAAHQAAAAAAAAAAAAswGsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,27 +129,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250429190515_filmes_senai.cs",
-              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Migrations\\20250429190515_filmes_senai.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250429190515_filmes_senai.cs",
-              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Migrations\\20250429190515_filmes_senai.cs",
-              "RelativeToolTip": "Migrations\\20250429190515_filmes_senai.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\APIFilmes\\api_filmes_senai\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\APIFilmes\\api_filmes_senai\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAUwKIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T19:05:15.862Z"
+              "WhenOpened": "2025-03-06T18:00:53.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\APIFilmes\\api_filmes_senai\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\APIFilmes\\api_filmes_senai\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T19:03:36.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250429191418_Dbfilmes.cs",
+              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Migrations\\20250429191418_Dbfilmes.cs",
+              "RelativeDocumentMoniker": "..\\..\\api_filmes_senai\\Migrations\\20250429191418_Dbfilmes.cs",
+              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Migrations\\20250429191418_Dbfilmes.cs",
+              "RelativeToolTip": "..\\..\\api_filmes_senai\\Migrations\\20250429191418_Dbfilmes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:14:18.645Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAFAAAAAlAAAAAAAAAA==",
+              "Title": "20250429190515_filmes_senai.cs",
+              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Migrations\\20250429190515_filmes_senai.cs",
+              "RelativeDocumentMoniker": "..\\..\\api_filmes_senai\\Migrations\\20250429190515_filmes_senai.cs",
+              "ToolTip": "C:\\Users\\54891245808\\Desktop\\API_Filmes\\api_filmes_senai\\Migrations\\20250429190515_filmes_senai.cs",
+              "RelativeToolTip": "..\\..\\api_filmes_senai\\Migrations\\20250429190515_filmes_senai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T18:00:53.492Z"
+              "WhenOpened": "2025-04-29T19:05:15.862Z"
             }
           ]
         }
