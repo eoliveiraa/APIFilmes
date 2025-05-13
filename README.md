@@ -5,12 +5,12 @@ Esta é uma API desenvolvida para gerenciar e consultar informações sobre film
 
 📌Funcionalidades
 
-🔍 Buscar filmes por título, gênero ou Id
+- Buscar filmes por título, gênero ou Id 🔍
 
-📄 Listar todos os filmes
+- Listar todos os filmes 📄 
 
-➕ Adicionar novos filmes
+- Adicionar novos filmes ➕
 
-✏️ Atualizar informações de um filme
+- Atualizar informações de um filme ✏️
 
-❌ Remover filmes do catálogo
+- Remover filmes do catálogo ❌
